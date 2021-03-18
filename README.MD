@@ -1,0 +1,4 @@
+# 轻量级gateway
+
+基于fasthttp构建轻量级gateway，不做复杂的功能
+考虑后续作用自定义faas的gateway
